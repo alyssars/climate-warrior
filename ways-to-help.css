@@ -1,0 +1,1222 @@
+body {
+    font-family: lexend;
+}
+
+.waystohelp-waystohelp {
+    width: 100%;
+    height: 3306px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(42, 88, 63, 1);
+  }
+  .waystohelp-text {
+    top: 2888px;
+    left: 128px;
+    color: rgba(248, 255, 251, 1);
+    width: 991px;
+    height: auto;
+    position: absolute;
+    font-size: 42px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Lexend;
+    font-weight: 400;
+    line-height: 71px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .waystohelp-text01 {
+    text-decoration: NONE;
+  }
+  .waystohelp-allways {
+    top: 687px;
+    left: 121px;
+    width: 1009px;
+    height: 2161px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .waystohelp-way1 {
+    top: 0px;
+    left: 0px;
+    width: 770px;
+    height: 217px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .waystohelp-iconsaveenergy {
+    top: 0px;
+    left: 0px;
+    width: 217px;
+    height: 217px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .waystohelp-ellipse1 {
+    top: 0px;
+    left: 0px;
+    width: 217px;
+    height: 217px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .waystohelp-i-m-a-g-e41 {
+    top: 38px;
+    left: 41px;
+    width: 135px;
+    height: 141px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .waystohelp-text03 {
+    top: 73px;
+    left: 233px;
+    color: rgba(248, 255, 251, 1);
+    width: 600px;
+    height: auto;
+    position: absolute;
+    font-size: 54px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Lexend;
+    font-weight: 700;
+    line-height: 71px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .waystohelp-way2 {
+    top: 609px;
+    left: 233px;
+    width: 769px;
+    height: 235px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .waystohelp-icontravel {
+    top: 0px;
+    left: 0px;
+    width: 235px;
+    height: 235px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .waystohelp-ellipse101 {
+    top: 0px;
+    left: 18px;
+    width: 217px;
+    height: 217px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .waystohelp-i-m-a-g-e7 {
+    top: 0px;
+    left: 0px;
+    width: 235px;
+    height: 235px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .waystohelp-text05 {
+    top: 73px;
+    left: 257px;
+    color: rgba(248, 255, 251, 1);
+    width: 600px;
+    height: auto;
+    position: absolute;
+    font-size: 54px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Lexend;
+    font-weight: 700;
+    line-height: 71px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .waystohelp-way3 {
+    top: 191px;
+    left: 281px;
+    width: 724px;
+    height: 217px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .waystohelp-iconwalkbike {
+    top: 0px;
+    left: 0px;
+    width: 217px;
+    height: 217px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .waystohelp-ellipse102 {
+    top: 0px;
+    left: 0px;
+    width: 217px;
+    height: 217px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .waystohelp-i-m-a-g-e5 {
+    top: 34px;
+    left: 33px;
+    width: 152px;
+    height: 149px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .waystohelp-text07 {
+    top: 37px;
+    left: 239px;
+    color: rgba(248, 255, 251, 1);
+    width: 600px;
+    height: auto;
+    position: absolute;
+    font-size: 54px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Lexend;
+    font-weight: 700;
+    line-height: 71px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .waystohelp-way4 {
+    top: 408px;
+    left: 0px;
+    width: 770px;
+    height: 217px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .waystohelp-iconvegetables {
+    top: 0px;
+    left: 0px;
+    width: 217px;
+    height: 217px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .waystohelp-ellipse103 {
+    top: 0px;
+    left: 0px;
+    width: 217px;
+    height: 217px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .waystohelp-i-m-a-g-e6 {
+    top: 21px;
+    left: 23px;
+    width: 170px;
+    height: 170px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .waystohelp-text12 {
+    top: 73px;
+    left: 233px;
+    color: rgba(248, 255, 251, 1);
+    width: 600px;
+    height: auto;
+    position: absolute;
+    font-size: 54px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Lexend;
+    font-weight: 700;
+    line-height: 71px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .waystohelp-way5 {
+    top: 844px;
+    left: 0px;
+    width: 779px;
+    height: 217px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .waystohelp-text14 {
+    top: 73px;
+    left: 233px;
+    color: rgba(248, 255, 251, 1);
+    width: 600px;
+    height: auto;
+    position: absolute;
+    font-size: 54px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Lexend;
+    font-weight: 700;
+    line-height: 71px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .waystohelp-iconthrowfood {
+    top: 0px;
+    left: 0px;
+    width: 217px;
+    height: 217px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .waystohelp-ellipse104 {
+    top: 0px;
+    left: 0px;
+    width: 217px;
+    height: 217px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .waystohelp-i-m-a-g-e8 {
+    top: 7px;
+    left: 12px;
+    width: 193px;
+    height: 193px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .waystohelp-way6 {
+    top: 1061px;
+    left: 233px;
+    width: 776px;
+    height: 217px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .waystohelp-text16 {
+    top: 37px;
+    left: 239px;
+    color: rgba(248, 255, 251, 1);
+    width: 600px;
+    height: auto;
+    position: absolute;
+    font-size: 54px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Lexend;
+    font-weight: 700;
+    line-height: 71px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .waystohelp-iconhomesource {
+    top: 0px;
+    left: 0px;
+    width: 217px;
+    height: 217px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .waystohelp-ellipse105 {
+    top: 0px;
+    left: 0px;
+    width: 217px;
+    height: 217px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .waystohelp-i-m-a-g-e10 {
+    top: 0px;
+    left: 6px;
+    width: 204px;
+    height: 204px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .waystohelp-way7 {
+    top: 1278px;
+    left: 0px;
+    width: 1005px;
+    height: 217px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .waystohelp-text21 {
+    top: 73px;
+    left: 233px;
+    color: rgba(248, 255, 251, 1);
+    width: 1000px;
+    height: auto;
+    position: absolute;
+    font-size: 54px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Lexend;
+    font-weight: 700;
+    line-height: 71px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .waystohelp-icon3r {
+    top: 0px;
+    left: 0px;
+    width: 217px;
+    height: 217px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .waystohelp-ellipse106 {
+    top: 0px;
+    left: 0px;
+    width: 217px;
+    height: 217px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .waystohelp-i-m-a-g-e9 {
+    top: 14px;
+    left: 22px;
+    width: 173px;
+    height: 173px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .waystohelp-way8 {
+    top: 1495px;
+    left: 229px;
+    width: 776px;
+    height: 217px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .waystohelp-text23 {
+    top: 37px;
+    left: 239px;
+    color: rgba(248, 255, 251, 1);
+    width: 600px;
+    height: auto;
+    position: absolute;
+    font-size: 54px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Lexend;
+    font-weight: 700;
+    line-height: 71px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .waystohelp-iconelectricvehicle {
+    top: 0px;
+    left: 0px;
+    width: 217px;
+    height: 217px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .waystohelp-ellipse107 {
+    top: 0px;
+    left: 0px;
+    width: 217px;
+    height: 217px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .waystohelp-i-m-a-g-e11 {
+    top: 32px;
+    left: 31px;
+    width: 153px;
+    height: 153px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .waystohelp-way9 {
+    top: 1944px;
+    left: 260px;
+    width: 702px;
+    height: 217px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .waystohelp-text28 {
+    top: 37px;
+    left: 245px;
+    color: rgba(248, 255, 251, 1);
+    width: 600px;
+    height: auto;
+    position: absolute;
+    font-size: 54px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Lexend;
+    font-weight: 700;
+    line-height: 71px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .waystohelp-iconmakemoneycount {
+    top: 0px;
+    left: 0px;
+    width: 217px;
+    height: 217px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .waystohelp-ellipse108 {
+    top: 0px;
+    left: 0px;
+    width: 217px;
+    height: 217px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .waystohelp-i-m-a-g-e12 {
+    top: 21px;
+    left: 21px;
+    width: 174px;
+    height: 174px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .waystohelp-way10 {
+    top: 1727px;
+    left: 0px;
+    width: 494px;
+    height: 217px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .waystohelp-text33 {
+    top: 73px;
+    left: 233px;
+    color: rgba(248, 255, 251, 1);
+    width: 600px;
+    height: auto;
+    position: absolute;
+    font-size: 54px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Lexend;
+    font-weight: 700;
+    line-height: 71px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .waystohelp-iconspeakup {
+    top: 0px;
+    left: 0px;
+    width: 217px;
+    height: 217px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .waystohelp-ellipse109 {
+    top: 0px;
+    left: 0px;
+    width: 217px;
+    height: 217px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .waystohelp-i-m-a-g-e13 {
+    top: 26px;
+    left: 31px;
+    width: 184px;
+    height: 184px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .waystohelp-hero {
+    top: 276px;
+    left: 50px;
+    width: 1147px;
+    height: 369px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .waystohelp-text35 {
+    color: rgba(217, 217, 217, 1);
+    width: 1147px;
+    height: auto;
+    position: absolute;
+    font-size: 160px;
+    align-self: auto;
+    font-style: ExtraBold;
+    text-align: center;
+    font-family: Lexend;
+    font-weight: 800;
+    line-height: 127px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .waystohelp-text40 {
+    top: 280px;
+    left: 78.73323059082031px;
+    color: rgba(138, 160, 148, 1);
+    width: 994px;
+    height: auto;
+    position: absolute;
+    font-size: 36px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Lexend;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .waystohelp-navbar {
+    top: 25px;
+    left: 34px;
+    /* width: 1179px; */
+    width: 95%;
+    height: 139.06700134277344px;
+    display: flex;
+    padding: 0;
+    /* position: absolute; */
+    position: fixed;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 120px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: rgba(59, 105, 80, 0.7);
+  }
+  .waystohelp-navbaricons {
+    top: 18.1392822265625px;
+    left: 56.432334899902344px;
+    width: 1070.4764404296875px;
+    height: 101.92489624023438px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .waystohelp-buttons {
+    top: 14px;
+    left: 613.8091430664062px;
+    width: 456.66717529296875px;
+    height: 28.504419326782227px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .waystohelp-text42 {
+    color: rgba(217, 217, 217, 1);
+    width: 137px;
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Lexend;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .waystohelp-text42:hover{
+    color: black;
+    text-decoration: underline;
+  }
+  .waystohelp-text44 {
+    left: 223.99276733398438px;
+    color: rgba(217, 217, 217, 1);
+    width: 49px;
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Lexend;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .waystohelp-text44:hover{
+    color: black;
+    text-decoration: underline;
+  }
+  .waystohelp-text46 {
+    left: 360.2983093261719px;
+    color: rgba(217, 217, 217, 1);
+    width: 96px;
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Lexend;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .waystohelp-text46:hover{
+    color: black;
+    text-decoration: underline;
+  }
+  .waystohelp-logoheader {
+    top: 0px;
+    left: 0px;
+    width: 504px;
+    height: 102px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .waystohelp-footer {
+    top: 3014px;
+    left: 34px;
+    width: 1179px;
+    height: 259.5257873535156px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 70px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: rgba(59, 105, 80, 0.4399999976158142);
+  }
+  .waystohelp-allbuttons {
+    top: 40.5772705078125px;
+    left: 74.99991607666016px;
+    width: 1029.466796875px;
+    height: 178.4227294921875px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .waystohelp-newsletter {
+    top: 50.4227294921875px;
+    left: 677.4130859375px;
+    width: 352.0537109375px;
+    height: 77.15459442138672px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .waystohelp-rectangle25 {
+    top: 36.5772705078125px;
+    left: 0px;
+    width: 352px;
+    height: 41px;
+    position: absolute;
+    border-color: transparent;
+    border-radius: 80px;
+  }
+  .waystohelp-text48 {
+    top: 43px;
+    left: 21.0537109375px;
+    color: rgba(255, 255, 255, 1);
+    width: 114px;
+    height: auto;
+    opacity: 0.60;
+    position: absolute;
+    font-size: 14px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Roboto;
+    font-weight: 400;
+    line-height: 31px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .waystohelp-submitbutton {
+    top: 42.5px;
+    left: 262px;
+    width: 60px;
+    height: 15px;
+    display: flex;
+    padding: 12px 38px;
+    position: absolute;
+    align-items: center;
+    flex-shrink: 0;
+    border-color: transparent;
+    border-radius: 64px;
+    justify-content: center;
+    background-color: rgba(80, 126, 101, 0.4399999976158142);
+  }
+  .waystohelp-text50 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 14px;
+    align-self: auto;
+    font-style: SemiBold;
+    text-align: center;
+    font-family: Lexend;
+    font-weight: 600;
+    line-height: 27.5px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .waystohelp-text52 {
+    left: 2.680612564086914px;
+    color: rgba(217, 217, 217, 1);
+    width: 213px;
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Lexend;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .waystohelp-email {
+    top: 88.4227294921875px;
+    left: 114.60082244873047px;
+    width: 350.812255859375px;
+    height: 29.082477569580078px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .waystohelp-mailicon {
+    top: 0.3402099609375px;
+    left: 0px;
+    width: 30px;
+    height: 29px;
+    position: absolute;
+  }
+  .waystohelp-text54 {
+    left: 41.812255859375px;
+    color: rgba(217, 217, 217, 1);
+    width: 309px;
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Lexend;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .waystohelp-contactnumber {
+    top: 117.5052490234375px;
+    left: 114.60082244873047px;
+    width: 388.812255859375px;
+    height: 26.206186294555664px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .waystohelp-contacticon {
+    top: 0px;
+    left: 0px;
+    width: 27px;
+    height: 26px;
+    position: absolute;
+  }
+  .waystohelp-text56 {
+    top: 2.91748046875px;
+    left: 39.812255859375px;
+    color: rgba(217, 217, 217, 1);
+    width: 349px;
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Lexend;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .waystohelp-text58 {
+    top: 162.4227294921875px;
+    left: 349.4130859375px;
+    color: rgba(217, 217, 217, 1);
+    width: 331px;
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    align-self: auto;
+    font-style: Light;
+    text-align: center;
+    font-family: Lexend;
+    font-weight: 300;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .waystohelp-logofooter {
+    top: 0px;
+    left: 0px;
+    width: 504px;
+    height: 100px;
+    position: absolute;
+    border-color: transparent;
+  }
+  

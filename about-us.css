@@ -1,0 +1,617 @@
+body {
+    font-family: lexend;
+}
+
+.aboutus-aboutus {
+    width: 100%;
+    height: 2413px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(42, 88, 63, 1);
+  }
+  .aboutus-mission {
+    top: 1566px;
+    left: 80px;
+    width: 1089px;
+    height: 524px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .aboutus-text {
+    top: 103px;
+    color: rgba(217, 217, 217, 1);
+    width: 552px;
+    height: auto;
+    position: absolute;
+    font-size: 50px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Lexend;
+    font-weight: 700;
+    line-height: 71px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .aboutus-text02 {
+    top: 174px;
+    color: rgba(255, 255, 255, 1);
+    width: 537px;
+    height: auto;
+    position: absolute;
+    font-size: 36px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Lexend;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .aboutus-i-m-a-g-e21 {
+    top: 0px;
+    left: 552.3246459960938px;
+    width: 537px;
+    height: 524px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .aboutus-vision {
+    top: 1153px;
+    left: 80px;
+    width: 1089px;
+    height: 399px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .aboutus-text04 {
+    top: 64px;
+    left: 557.9844970703125px;
+    color: rgba(217, 217, 217, 1);
+    width: 522px;
+    height: auto;
+    position: absolute;
+    font-size: 50px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Lexend;
+    font-weight: 700;
+    line-height: 71px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .aboutus-text06 {
+    top: 135px;
+    left: 557.9844970703125px;
+    color: rgba(255, 255, 255, 1);
+    width: 531px;
+    height: auto;
+    position: absolute;
+    font-size: 36px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Lexend;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .aboutus-i-m-a-g-e31 {
+    top: 0px;
+    left: 0px;
+    width: 548px;
+    height: 399px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .aboutus-aboutusdescription {
+    top: 517px;
+    left: 80px;
+    width: 1089px;
+    height: 599.6835327148438px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .aboutus-text08 {
+    color: rgba(217, 217, 217, 1);
+    width: 549px;
+    height: auto;
+    position: absolute;
+    font-size: 47px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Lexend;
+    font-weight: 700;
+    line-height: 64px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .aboutus-text10 {
+    top: 325px;
+    color: rgba(255, 255, 255, 1);
+    width: 518px;
+    height: auto;
+    position: absolute;
+    font-size: 36px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Lexend;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .aboutus-i-m-a-g-e11 {
+    top: 0px;
+    left: 535px;
+    width: 554px;
+    height: 564px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .aboutus-hero {
+    top: 276px;
+    left: 271px;
+    width: 1000px;
+    height: 127px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .aboutus-text12 {
+    color: rgba(217, 217, 217, 1);
+    height: auto;
+    position: absolute;
+    font-size: 160px;
+    align-self: auto;
+    font-style: ExtraBold;
+    text-align: center;
+    font-family: Lexend;
+    font-weight: 800;
+    line-height: 127px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .aboutus-navbar {
+    top: 25px;
+    left: 34px;
+    /* width: 1179px; */
+    width: 95%;
+    height: 139.06700134277344px;
+    display: flex;
+    padding: 0;
+    /* position: absolute; */
+    position: fixed;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 120px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: rgba(59, 105, 80, 0.7);
+  }
+  .aboutus-navbaricons {
+    top: 18.1392822265625px;
+    left: 56.432334899902344px;
+    width: 1070.4764404296875px;
+    height: 101.92489624023438px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .aboutus-buttons {
+    top: 14px;
+    left: 613.8091430664062px;
+    width: 456.66717529296875px;
+    height: 28.504419326782227px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .aboutus-text14 {
+    color: rgba(217, 217, 217, 1);
+    width: 137px;
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Lexend;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .aboutus-text14:hover{
+    color: black;
+    text-decoration: underline;
+  }
+  .aboutus-text16 {
+    left: 223.99276733398438px;
+    color: rgba(217, 217, 217, 1);
+    width: 49px;
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Lexend;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .aboutus-text16:hover{
+    color: black;
+    text-decoration: underline;
+  }
+  .aboutus-text18 {
+    left: 360.2983093261719px;
+    color: rgba(217, 217, 217, 1);
+    width: 96px;
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Lexend;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .aboutus-text18:hover{
+    color: black;
+    text-decoration: underline;
+  }
+  .aboutus-logoheader {
+    top: 0px;
+    left: 0px;
+    width: 504px;
+    height: 102px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .aboutus-footer {
+    top: 2126px;
+    left: 34px;
+    width: 1179px;
+    height: 259.5257873535156px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 70px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: rgba(59, 105, 80, 1);
+  }
+  .aboutus-allbuttons {
+    top: 40.5772705078125px;
+    left: 74.99991607666016px;
+    width: 1029.466796875px;
+    height: 178.4227294921875px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .aboutus-newsletter {
+    top: 50.4227294921875px;
+    left: 677.4130859375px;
+    width: 352.0537109375px;
+    height: 77.15459442138672px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .aboutus-rectangle25 {
+    top: 36.5772705078125px;
+    left: 0px;
+    width: 352px;
+    height: 41px;
+    position: absolute;
+    border-color: transparent;
+    border-radius: 80px;
+  }
+  .aboutus-text20 {
+    top: 43px;
+    left: 21.0537109375px;
+    color: rgba(255, 255, 255, 1);
+    width: 114px;
+    height: auto;
+    opacity: 0.60;
+    position: absolute;
+    font-size: 14px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Roboto;
+    font-weight: 400;
+    line-height: 31px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .aboutus-submitbutton {
+    top: 44.185546875px;
+    left: 260.61114501953125px;
+    width: 77.72613525390625px;
+    height: 24.515464782714844px;
+    display: flex;
+    padding: 12px 38px;
+    position: absolute;
+    align-items: center;
+    flex-shrink: 0;
+    border-color: transparent;
+    border-radius: 64px;
+    justify-content: center;
+    background-color: rgba(80, 126, 101, 0.4399999976158142);
+  }
+  .aboutus-text22 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 14px;
+    align-self: auto;
+    font-style: SemiBold;
+    text-align: center;
+    font-family: Lexend;
+    font-weight: 600;
+    line-height: 27.5px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .aboutus-text24 {
+    left: 2.680612564086914px;
+    color: rgba(217, 217, 217, 1);
+    width: 213px;
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Lexend;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .aboutus-email {
+    top: 88.4227294921875px;
+    left: 114.60082244873047px;
+    width: 350.812255859375px;
+    height: 29.082477569580078px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .aboutus-mailicon {
+    top: 0.3402099609375px;
+    left: 0px;
+    width: 30px;
+    height: 29px;
+    position: absolute;
+  }
+  .aboutus-text26 {
+    left: 41.812255859375px;
+    color: rgba(217, 217, 217, 1);
+    width: 309px;
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Lexend;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .aboutus-contactnumber {
+    top: 117.5052490234375px;
+    left: 114.60082244873047px;
+    width: 388.812255859375px;
+    height: 26.206186294555664px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .aboutus-contacticon {
+    top: 0px;
+    left: 0px;
+    width: 27px;
+    height: 26px;
+    position: absolute;
+  }
+  .aboutus-text28 {
+    top: 2.91748046875px;
+    left: 39.812255859375px;
+    color: rgba(217, 217, 217, 1);
+    width: 349px;
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Lexend;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .aboutus-text30 {
+    top: 162.4227294921875px;
+    left: 349.4130859375px;
+    color: rgba(217, 217, 217, 1);
+    width: 331px;
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    align-self: auto;
+    font-style: Light;
+    text-align: center;
+    font-family: Lexend;
+    font-weight: 300;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .aboutus-logofooter {
+    top: 0px;
+    left: 0px;
+    width: 504px;
+    height: 100px;
+    position: absolute;
+    border-color: transparent;
+  }
+  

@@ -1,0 +1,812 @@
+body {
+    font-family: lexend;
+}
+
+.homepage-homepage {
+    width: 100%;
+    height: 2842px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(42, 88, 63, 1);
+  }
+  
+  .homepage-footer {
+    top: 2550px;
+    left: 34px;
+    width: 1179px;
+    height: 259.5257873535156px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 70px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: rgba(59, 105, 80, 0.4399999976158142);
+  }
+  .homepage-allbuttons {
+    top: 40.5772705078125px;
+    left: 74.99991607666016px;
+    width: 1029.466796875px;
+    height: 178.4227294921875px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .homepage-newsletter {
+    top: 50.4227294921875px;
+    left: 677.4130859375px;
+    width: 352.0537109375px;
+    height: 77.15459442138672px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .homepage-rectangle25 {
+    top: 36.5772705078125px;
+    left: 0px;
+    width: 352px;
+    height: 41px;
+    position: absolute;
+    border-color: transparent;
+    border-radius: 80px;
+  }
+  .homepage-text {
+    top: 43px;
+    left: 21.0537109375px;
+    color: rgba(255, 255, 255, 1);
+    width: 114px;
+    height: auto;
+    opacity: 0.60;
+    position: absolute;
+    font-size: 14px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Roboto;
+    font-weight: 400;
+    line-height: 31px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .homepage-submitbutton {
+    top: 42.5px;
+    left: 262px;
+    width: 60px;
+    height: 15px;
+    display: flex;
+    padding: 12px 38px;
+    position: absolute;
+    align-items: center;
+    flex-shrink: 0;
+    border-color: transparent;
+    border-radius: 64px;
+    justify-content: center;
+    background-color: rgba(80, 126, 101, 0.4399999976158142);
+  }
+  .homepage-text02 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 14px;
+    align-self: auto;
+    font-style: SemiBold;
+    text-align: center;
+    font-family: Lexend;
+    font-weight: 600;
+    line-height: 27.5px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .homepage-text04 {
+    left: 2.680612564086914px;
+    color: rgba(217, 217, 217, 1);
+    width: 213px;
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Lexend;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .homepage-email {
+    top: 88.4227294921875px;
+    left: 114.60082244873047px;
+    width: 350.812255859375px;
+    height: 29.082477569580078px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .homepage-mailicon {
+    top: 0.3402099609375px;
+    left: 0px;
+    width: 30px;
+    height: 29px;
+    position: absolute;
+  }
+  .homepage-text06 {
+    left: 41.812255859375px;
+    color: rgba(217, 217, 217, 1);
+    width: 309px;
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Lexend;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .homepage-contactnumber {
+    top: 117.5052490234375px;
+    left: 114.60082244873047px;
+    width: 388.812255859375px;
+    height: 26.206186294555664px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .homepage-contacticon {
+    top: 0px;
+    left: 0px;
+    width: 27px;
+    height: 26px;
+    position: absolute;
+  }
+  .homepage-text08 {
+    top: 2.91748046875px;
+    left: 39.812255859375px;
+    color: rgba(217, 217, 217, 1);
+    width: 349px;
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Lexend;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .homepage-text10 {
+    top: 162.4227294921875px;
+    left: 349.4130859375px;
+    color: rgba(217, 217, 217, 1);
+    width: 331px;
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    align-self: auto;
+    font-style: Light;
+    text-align: center;
+    font-family: Lexend;
+    font-weight: 300;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .homepage-logofooter {
+    top: 0px;
+    left: 0px;
+    width: 504px;
+    height: 100px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .homepage-takeactionbutton {
+    top: 2123px;
+    left: 92px;
+    width: 1073px;
+    height: 372.33978271484375px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 65px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: rgba(217, 217, 217, 1);
+  }
+  .homepage-alltext {
+    top: 30.914825439453125px;
+    left: 19.9036808013916px;
+    width: 1032.2874755859375px;
+    height: 309.5101623535156px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .homepage-text12 {
+    top: 49.355831146240234px;
+    color: rgba(42, 88, 63, 1);
+    width: 1030px;
+    height: auto;
+    position: absolute;
+    font-size: 88px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: center;
+    font-family: Lexend;
+    font-weight: 700;
+    line-height: 73px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .homepage-text13 {
+    text-decoration: NONE;
+  }
+  .homepage-text17 {
+    text-decoration: UNDERLINE;
+  }
+  .homepage-text18 {
+    left: 390.83966064453125px;
+    color: rgba(110, 100, 100, 1);
+    width: 251px;
+    height: auto;
+    position: absolute;
+    font-size: 34px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Lexend;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .homepage-waystohelpbutton {
+    top: 239.87777709960938px;
+    left: 230.70401000976562px;
+    width: 571.7841796875px;
+    height: 69.63237762451172px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 120px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: rgba(42, 88, 63, 1);
+  }
+  .homepage-text20 {
+    /* bottom: 1px; */
+    top: 14px;
+    left: 50px;
+    color: rgba(255, 255, 255, 1);
+    width: 491px;
+    /* height: auto; */
+    position: absolute;
+    font-size: 30px;
+    /* align-self: auto; */
+    font-style: Regular;
+    text-align: center;
+    font-family: Lexend;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .homepage-text21 {
+    font-weight: 400;
+    text-decoration: none;
+  }
+
+  .homepage-notsofunfact {
+    top: 1331px;
+    left: 92px;
+    width: 1068px;
+    height: 757px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .homepage-text23 {
+    top: 352px;
+    color: rgba(217, 217, 217, 1);
+    width: 1068px;
+    height: auto;
+    position: absolute;
+    font-size: 19px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: justified;
+    font-family: Lexend;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .homepage-text25 {
+    top: 410px;
+    left: 620.9521484375px;
+    color: rgba(217, 217, 217, 1);
+    width: 447px;
+    height: auto;
+    position: absolute;
+    font-size: 19px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: justify;
+    font-family: Lexend;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .homepage-text26 {
+    text-decoration: NONE;
+  }
+  .homepage-text27 {
+    text-decoration: UNDERLINE;
+  }
+  .homepage-text34 {
+    top: 38px;
+    color: rgba(217, 217, 217, 1);
+    width: 1064px;
+    height: auto;
+    position: absolute;
+    font-size: 79px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: center;
+    font-family: Lexend;
+    font-weight: 700;
+    line-height: 100px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .homepage-text39 {
+    left: 317px;
+    color: rgba(138, 160, 149, 1);
+    width: 434px;
+    height: auto;
+    position: absolute;
+    font-size: 34px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Lexend;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .homepage-image2 {
+    top: 411px;
+    left: 0px;
+    width: 612px;
+    height: 314px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .homepage-text41 {
+    top: 738px;
+    color: rgba(217, 217, 217, 1);
+    width: 612px;
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    align-self: auto;
+    font-style: Light;
+    text-align: center;
+    font-family: Lexend;
+    font-weight: 300;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .homepage-diduknow {
+    top: 679px;
+    left: 92px;
+    width: 1063px;
+    height: 601px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .homepage-text43 {
+    top: 34px;
+    color: rgba(217, 217, 217, 1);
+    width: 578px;
+    height: auto;
+    position: absolute;
+    font-size: 70px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Lexend;
+    font-weight: 700;
+    line-height: 96px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .homepage-text50 {
+    color: rgba(138, 160, 149, 1);
+    width: 317px;
+    height: auto;
+    position: absolute;
+    font-size: 34px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Lexend;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .homepage-text52 {
+    top: 428px;
+    color: rgba(217, 217, 217, 1);
+    width: 552px;
+    height: auto;
+    position: absolute;
+    font-size: 19px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: justify;
+    font-family: Lexend;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .homepage-text53 {
+    text-decoration: NONE;
+  }
+  .homepage-text54 {
+    text-decoration: UNDERLINE;
+  }
+  .homepage-text56 {
+    top: 361px;
+    left: 568px;
+    color: rgba(217, 217, 217, 1);
+    width: 495px;
+    height: auto;
+    position: absolute;
+    font-size: 19px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: justify;
+    font-family: Lexend;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .homepage-text58 {
+    top: 337px;
+    left: 544.669921875px;
+    color: rgba(217, 217, 217, 1);
+    width: 518px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: Light;
+    text-align: center;
+    font-family: Lexend;
+    font-weight: 300;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .homepage-image1 {
+    top: 63px;
+    left: 568px;
+    width: 495px;
+    height: 265px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .homepage-hero {
+    top: 267px;
+    left: -17px;
+    width: 1282px;
+    height: 325px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .homepage-text60 {
+    color: rgba(217, 217, 217, 1);
+    width: 1282px;
+    height: auto;
+    position: absolute;
+    font-size: 160px;
+    align-self: auto;
+    font-style: ExtraBold;
+    text-align: center;
+    font-family: Lexend;
+    font-weight: 800;
+    line-height: 127px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .homepage-text65 {
+    top: 280px;
+    left: 447px;
+    color: rgba(138, 160, 148, 1);
+    height: auto;
+    position: absolute;
+    font-size: 36px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Lexend;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .homepage-navbar {
+    top: 25px;
+    left: 34px;
+    /* width: 1179px; */
+    width: 95%;
+    height: 139.06700134277344px;
+    display: flex;
+    padding: 0;
+    /* position: absolute; */
+    position: fixed;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 120px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: rgba(59, 105, 80, 0.7);
+    
+  }
+  .homepage-navbaricons {
+    top: 18.1392822265625px;
+    left: 56.432334899902344px;
+    width: 1070.4764404296875px;
+    height: 101.92489624023438px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .homepage-buttons {
+    top: 14px;
+    left: 613.8091430664062px;
+    width: 456.66717529296875px;
+    height: 28.504419326782227px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .homepage-text67 {
+    color: rgba(217, 217, 217, 1);
+    width: 137px;
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Lexend;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .homepage-text67:hover{
+    color: black;
+    text-decoration: underline;
+  }
+  .homepage-text69 {
+    left: 223.99276733398438px;
+    color: rgba(217, 217, 217, 1);
+    width: 49px;
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Lexend;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+
+  .homepage-text69:hover{
+    color: black;
+    text-decoration: underline;
+  }
+
+  .homepage-text71 {
+    left: 360.2983093261719px;
+    color: rgba(217, 217, 217, 1);
+    width: 96px;
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Lexend;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .homepage-text71:hover{
+    color: black;
+    text-decoration: underline;
+  }
+  
+  .homepage-logoheader {
+    top: 0px;
+    left: 0px;
+    width: 504px;
+    height: 102px;
+    position: absolute;
+    border-color: transparent;
+  }
+
+
+  
+  
